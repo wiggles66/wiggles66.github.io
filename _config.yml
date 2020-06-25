@@ -1,11 +1,11 @@
 # Site settings
 author: Michael Waide
-title: 
+title: The Journey of Coding
 header-img: img/home-bg.png
 email: mvwaide@gmail.com
 copyright_name: Michael Waide
 description: > # this means to ignore newlines until "baseurl:"
-  
+  learning to code starting from absolutely no knowledge of it.
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  wiggles66
